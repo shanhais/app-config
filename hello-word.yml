@@ -1,1 +1,2 @@
 name: Hello Spring Cloud Config Server
+test: Testing config server
