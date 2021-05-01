@@ -13,4 +13,6 @@ logging:
 spring: # <---NEW SECTION
   cloud:
     services:
-      registrationMethod: route      
+      registrationMethod: route
+test:
+  application: checking the code          
