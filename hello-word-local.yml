@@ -2,5 +2,5 @@ spring:
   config:
     activate:
       on-profile: local
-name: Hello Spring Cloud Config Server
+name: Hello Spring Cloud Config Server test
 test: Testing config server
